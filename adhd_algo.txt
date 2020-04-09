@@ -1,0 +1,34 @@
+start recognition 
+
+if face found - reset timer
+if not - start timer
+if tim > 10 second - alaam or warn the user to shift his attention again on the screen 
+gamification  if timer >30 prize score
+
+adhd-attention span less ==> eye movement is high
+adhd ==> eye movement high
+find coordinates of eyes and monitor them for some while
+
+if person is not seeing :
+	start the counter
+if sees :
+	reset counter
+
+show the result
+
+#person with face in front of camera or not
+
+if face not visible :
+	bad count increase
+	reset good counter
+
+if face visible:
+	if eyes visible :
+		reset counter 
+		increase good counter
+
+if good counter >10 :
+	you are doing gooooood
+
+if bad counter > 50:
+	please look at the screen 

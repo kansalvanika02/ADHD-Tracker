@@ -1,0 +1,11 @@
+less resource intensive
+easily deployable
+for those who cant use python interface
+we have deployed the app on html 
+so users with basic computer knowledge can use our product
+
+for onlibne  deployments
+we can offer them membership for a year or month or a week 
+with discounts 
+
+this product is readily deployable
